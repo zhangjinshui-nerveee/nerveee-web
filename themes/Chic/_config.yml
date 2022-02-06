@@ -1,5 +1,5 @@
 # Header
-navname: Bentham's Blog
+navname: NerveEE
 
 # navigatior items
 nav:
@@ -12,10 +12,10 @@ nav:
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: Jinshui Zhang
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
+description: Early one morning, with time to kill  <br> I borrow Jeb's rifle and sat on the hill <br> I saw a lone rider crossing the plane <br> I drew a bead on him, to practice my aim ......
 avatar: /image/avatar.jpeg
 
 # main menu navigation
@@ -48,7 +48,7 @@ links:
   # YouTube:
   # QQ:
   # Weibo:
-  WeChat: zhangjinshui1997
+  # WeChat: zhangjinshui1997
   Github: https://github.com/jimmy-zhangjinshui
 
 # how links show: you have 2 choice--text or icon.
