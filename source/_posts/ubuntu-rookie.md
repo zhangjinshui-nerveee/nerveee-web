@@ -1,10 +1,14 @@
 ---
-title: ubuntu_rookie
+title: Rookie with Ubuntu
 date: 2022-02-06 19:09:27
 tags:
+- linux
+- git
+category:
+- computer 
 ---
 
-## How to push all git repositories in one command.
+# How to push all git repositories in one command.
 1. edit .bashrc
 ```
 vim ~/.bashrc
