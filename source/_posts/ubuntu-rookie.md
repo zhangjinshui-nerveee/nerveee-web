@@ -5,7 +5,7 @@ tags:
 - linux
 - git
 category:
-- computer 
+- Computer 
 ---
 
 # How to push all git repositories in one command.
