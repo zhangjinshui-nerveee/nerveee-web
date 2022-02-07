@@ -68,21 +68,15 @@ And surely you can play more interesting and powerful things with .bashrc config
 
 
 
-## How to monitor the computer status
+# How to monitor the computer status
 ```
 free -h
 ```
 
-## Connect two Ubuntu using Remmina
-- Necessary: VNC server
-- steps:
--
-
-
-## How to use vim plugin
+# How to use vim plugin
 - fisadev
 
-## how to store personal access token
+# how to store personal access token
 There are two solutions.
 ```
 git config --global credential.helper cache
@@ -147,8 +141,8 @@ export JUPYTER_RUNTIME_DIR=/home/$USER/Public
 jupyter-notebook
 ```
 
-## Pytest
-### Github actions
+# Pytest
+## Github actions
 > Test your program everytime you git push
 ```
 mkdir .github/workflows
