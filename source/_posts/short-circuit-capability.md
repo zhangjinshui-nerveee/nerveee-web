@@ -20,6 +20,10 @@ category:
 3. Literature mainly care about conditions under 400V+ bus. The SC capability is important because the SiC need to withstand till the system knows this is a short circuit and takes actions. 
 > What we need here may need the simulation. Not the focus of publishment. 
 
+# Simulation
+- Model provided by Infineon is designed for PLECS thermal simulation. Dynamic performance (electrical) would not present. 
+- In order to observe the dynamics, we need to add stray parameters manually.
+ 
 
 # Definition of Short Circuit Capability
 - Short-circuit capability is defined by the energy density applied to the device during the period of short-circuit withstand.
