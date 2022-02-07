@@ -10,6 +10,7 @@ date: 2022-02-06 19:38:24
 - [ ] Manuscript of modulation: draw pictures yourself and then do the measurement
 - [ ] Timeline till July about M. project.
 - [ ] Simulate 1200 V SiC with PLECS, obtain appropriate parallel timing. 
+- [ ] auto parallel won't work at low frequency TMS or single time pulse
 
 ## Pool
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
