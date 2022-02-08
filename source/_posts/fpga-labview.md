@@ -104,3 +104,7 @@ Read/Write nodes are good candidates for transferring multiple pieces of informa
 - Timing of while loop (FPGA): Suppose we have a if-case inside the while loop, the true-case will trigger a long-time (say 100us) delay, but false won't. Then what's the timing of the while loop? Always takes 100+us?
   - In PC level, while loop timing will depend on the case input. True and False conditions will have different loop timing depending on their certain program content.
   - In FPGA level, the thing is the same.
+
+# FPGA variables setting up
+- Don't overuse local variables. It may make your program look more organized, but local variables are not the exactly the same as wires. For example, inside a SCTL, using local variables to write to one variable would cause `arbitrary problem`. So when you could do something with wires, use it no matter how ugly it makes your program look like. Use local variables to communicate among different loops. (Otherwise it would never update the value if using wire because the output of loop side port only update when the loop ends.)
+
