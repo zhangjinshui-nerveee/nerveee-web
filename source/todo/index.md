@@ -7,7 +7,9 @@ date: 2022-02-06 19:38:24
 
 ## Within 72 hours
 - [ ] Manuscript of modulation: draw pictures yourself and then do the measurement
+- [ ] Finish protection board testing !!!!!!!!!!!!!!!!!!!!!!!!!!!
 - [ ] STA561 homework programming
+- [ ] 
 
 ## Pool
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
