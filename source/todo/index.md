@@ -9,7 +9,7 @@ date: 2022-02-06 19:38:24
 - [ ] Manuscript of modulation: draw pictures yourself and then do the measurement
 - [ ] Finish protection board testing !!!!!!!!!!!!!!!!!!!!!!!!!!!
 - [ ] STA561 homework programming
-- [ ] 
+- [ ] Average swtiching frequency calculation 
 
 ## Pool
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
