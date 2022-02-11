@@ -1,5 +1,5 @@
 ---
-title: probablistic_machine_learning
+title: Statical Thinking of Machine Learning
 date: 2022-02-09 11:34:27
 tags:
 - Mathematics
