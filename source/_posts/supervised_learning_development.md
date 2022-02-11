@@ -78,5 +78,19 @@ Data format should be uniform.
 - MSE (Mean Square Error)
 - MAD (Mean Absolute Deviation)
 
+## Development steps
+### Criterion 
+[ ] MSE<br>
+[ ] MAD
+
+### Linear models 
+> Use different regularization methods
+
+[ ] Lasso<br>
+[ ] Ridge<br>
+[ ] Noise Augmentation<br>
 
 
+### Nonlinear models
+[ ] NN<br>
+[ ] 
