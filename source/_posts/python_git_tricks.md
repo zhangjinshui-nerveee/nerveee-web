@@ -1,5 +1,5 @@
 ---
-title: Bio-Medical Software Development
+title: Tricks on Python and Git
 date: 2022-02-09 15:39:50
 tags:
 - python

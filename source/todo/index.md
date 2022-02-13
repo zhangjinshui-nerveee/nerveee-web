@@ -7,8 +7,12 @@ date: 2022-02-06 19:38:24
 
 ## Within 72 hours
 - [ ] Manuscript of modulation: draw pictures yourself and then do the measurement
+<<<<<<< HEAD
 - [ ] STA561 homework programming
 - [ ] PhD exam
+=======
+- [ ] PhD exam, postpone it as late as possible
+>>>>>>> afb73557a74afa497b58664641295e03e86f937c
 
 ## Pool
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
