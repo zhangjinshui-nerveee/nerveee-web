@@ -6,8 +6,8 @@ date: 2022-02-06 19:38:24
 # Tasks
 
 ## Within 72 hours
-- [ ] STA561 homework programming
 - [ ] Manuscript of modulation: draw pictures yourself and then do the measurement
+- [ ] STA561 homework programming
 - [ ] PhD exam
 
 ## Pool
