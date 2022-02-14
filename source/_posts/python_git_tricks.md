@@ -89,3 +89,6 @@ if type(a) == str:
 - Excessively long line of code (PEP8)
 
 
+# Git 
+
+[What if I made some change on the wrong branch?](https://stackoverflow.com/questions/8085838/how-to-move-the-changes-from-one-branch-to-another-branch-git)
