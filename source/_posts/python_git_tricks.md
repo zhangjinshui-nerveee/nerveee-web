@@ -33,4 +33,24 @@ if type(a) == str:
     raise TypeError("Cannot handle a string.")
 ```
 
+# Software Design Principle and Code Smell
+
+## Least Surprise
+- Function and variable name make sense. 
+- No unexpected side effects. 
+> "You have to call A before B, othersie the program will crash. " (Bad example)
+
+## Don't Repeat Yourself
+- The same constant or piece of codes should only appear once. 
+- Why repeat is a bad thing in programming?
+- How could we avoid repeating ourselves?
+  - If the same piece of codes needed more than once, wrap it into a function. 
+  - If the constant is needed more than once, give it a name. 
+
+
+## SOLID
+### Single Resonsiblity
+- One function should do only "ONE THING"
+-
+
 
