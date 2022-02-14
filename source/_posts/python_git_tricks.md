@@ -75,3 +75,17 @@ if type(a) == str:
 
 ### Dependency Inversion Principle
 
+
+## Code Smell
+> Code is hard to read and use. 
+
+- Too many parameters
+> combine them into list, dict, or strings.
+- Too long variable name
+- Too short variable name
+- Too many return of data
+- Too long function 
+- Excessive comments 
+- Excessively long line of code (PEP8)
+
+
