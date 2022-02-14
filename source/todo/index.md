@@ -10,6 +10,7 @@ date: 2022-02-06 19:38:24
 - [ ] STA561 homework programming
 - [ ] PhD exam, postpone it as late as possible
 - [ ] BME homework git push
+- [ ] Simulation of different modulation methods and compare. 
 ## Pool
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
 - Tax statement
