@@ -51,6 +51,27 @@ if type(a) == str:
 ## SOLID
 ### Single Resonsiblity
 - One function should do only "ONE THING"
--
+- Uncle Bob: Gather the things that change for the same reasons. Separate those things that change for different reasons. 
+- If your description of a function has multiple "and", then it probably needs to be separated into several functions. 
 
+### Open / Close
+> Adding a new feature could destroy the whole program?
+- Software entities should be open to extension but closed to modification. 
+- If else could be the big enermy. 
+- Function approach to follow open / close 
+- Easier to do unit testing
+> Different Coverage Level
+> - Statement Coverage
+> - Branch Coverage (satisties our assignments and final project)
+> - Condition coverage
+
+
+> The following three principles are useful in large project. 
+### Liskov Substitution Principle
+
+
+### Interface Segregation Principle
+
+
+### Dependency Inversion Principle
 
