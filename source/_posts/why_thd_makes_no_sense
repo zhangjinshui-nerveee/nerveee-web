@@ -10,5 +10,10 @@ tags:
 # Total Harmonics Distortion and Noise (THD+N)
 
 # How to measure THD and THD+N
+In simulink, the Power GUI has a build-in tool "FFT Analysis". We can rely on this tool to perform FFT analysis and furtherly the THD or THD+N. 
 
+- If we need to perform FFT analysis on certain signals, we need to save them to workspace while simulating, the format should be structure with time. 
+- And remember to deselect the option in the "model setting" --> "Data Import / Export" --> "Single Simulation Ouput". 
+- Otherwise, all the "to workspace" data would be bunched together in a simulationOutput variable and the FFT tool cannot recognize the signals we saved and we need to split them manually. 
+- Deselect this option, you can see the output variable in the MATLAB workspace after simulation, and its format is "struct" instead of "SimulationOutput". 
 
