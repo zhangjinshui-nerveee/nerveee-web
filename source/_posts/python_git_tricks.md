@@ -33,4 +33,64 @@ if type(a) == str:
     raise TypeError("Cannot handle a string.")
 ```
 
+# Software Design Principle and Code Smell
 
+## Least Surprise
+- Function and variable name make sense. 
+- No unexpected side effects. 
+> "You have to call A before B, othersie the program will crash. " (Bad example)
+
+## Don't Repeat Yourself
+- The same constant or piece of codes should only appear once. 
+- Why repeat is a bad thing in programming?
+- How could we avoid repeating ourselves?
+  - If the same piece of codes needed more than once, wrap it into a function. 
+  - If the constant is needed more than once, give it a name. 
+
+
+## SOLID
+### Single Resonsiblity
+- One function should do only "ONE THING"
+- Uncle Bob: Gather the things that change for the same reasons. Separate those things that change for different reasons. 
+- If your description of a function has multiple "and", then it probably needs to be separated into several functions. 
+
+### Open / Close
+> Adding a new feature could destroy the whole program?
+- Software entities should be open to extension but closed to modification. 
+- If else could be the big enermy. 
+- Function approach to follow open / close 
+- Easier to do unit testing
+> Different Coverage Level
+> - Statement Coverage
+> - Branch Coverage (satisties our assignments and final project)
+> - Condition coverage
+
+
+> The following three principles are useful in large project. 
+### Liskov Substitution Principle
+
+
+### Interface Segregation Principle
+
+
+### Dependency Inversion Principle
+
+
+## Code Smell
+> Code is hard to read and use. 
+
+- Too many parameters
+> combine them into list, dict, or strings.
+- Too long variable name
+- Too short variable name
+- Too many return of data
+- Too long function 
+- Excessive comments 
+- Excessively long line of code (PEP8)
+
+
+# Git 
+
+[What if I made some change on the wrong branch?](https://stackoverflow.com/questions/8085838/how-to-move-the-changes-from-one-branch-to-another-branch-git)
+> Main branch is for deployment in the industry. 
+> Git conflicts.

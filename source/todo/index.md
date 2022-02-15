@@ -9,7 +9,7 @@ date: 2022-02-06 19:38:24
 - [ ] Manuscript of modulation: draw pictures yourself and then do the measurement
 - [ ] STA561 homework programming
 - [ ] PhD exam, postpone it as late as possible
-- [ ] BME homework git push
+- [ ] BME homework git push. Change the input mode, allow user to input a customized file name. 
 - [ ] Simulation of different modulation methods and compare. 
 ## Pool
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
