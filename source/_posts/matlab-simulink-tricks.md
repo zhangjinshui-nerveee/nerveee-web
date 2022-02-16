@@ -20,6 +20,8 @@ Here, we are going to run a power electronics model for several times, and after
 [Run simulation programmatically](https://www.mathworks.com/help/simulink/ug/using-the-sim-command.html)
 
 But first, you need to make the parameters in simulink accessible to MATLAB. 
+### How to transfer parameters from MATLAB command to Simulink?
+- Save the data in .mat file, and read it in simulink.
 
 ## FFT Code
 
