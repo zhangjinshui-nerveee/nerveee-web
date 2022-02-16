@@ -68,13 +68,15 @@ if type(a) == str:
 
 > The following three principles are useful in large project. 
 ### Liskov Substitution Principle
+- Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it. 
 
 
 ### Interface Segregation Principle
-
+- Many client-specific interfaces are better than on a general-purpose interface. 
 
 ### Dependency Inversion Principle
-
+- High level modules should not import anything from low level modules. 
+- Abstractions should not depend on details. 
 
 ## Code Smell
 > Code is hard to read and use. 
