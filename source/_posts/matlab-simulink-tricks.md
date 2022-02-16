@@ -22,6 +22,10 @@ Here, we are going to run a power electronics model for several times, and after
 But first, you need to make the parameters in simulink accessible to MATLAB. 
 ### How to transfer parameters from MATLAB command to Simulink?
 - Save the data in .mat file, and read it in simulink.
+> Be careful. When saving data to xxx.mat file, you need to use `append` mode. Otherwise, you would lose all data in the mat file already. 
+```
+save 'xxx.mat' var '-append'
+```
 
 ## FFT Code
 
