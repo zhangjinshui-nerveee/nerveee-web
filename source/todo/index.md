@@ -6,8 +6,8 @@ date: 2022-02-06 19:38:24
 # Tasks
 
 ## Within 72 hours
+- [ ] Simulation script:  run multiple times simulation, run script of FFT after each simulation.
 - [ ] Manuscript of modulation: draw pictures yourself and then do the measurement
-- [ ] STA561 homework programming
 - [ ] PhD exam, postpone it as late as possible
 - [ ] Soldering preparation
 ## Pool
