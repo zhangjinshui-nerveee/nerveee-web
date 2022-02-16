@@ -16,3 +16,6 @@ date: 2022-02-06 19:38:24
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
 - Tax statement
 
+# To buy 
+- [ ] SN74LVC2G02DCUR
+
