@@ -28,6 +28,33 @@ save 'xxx.mat' var '-append'
 ```
 
 ## FFT Code
+After get the signal (structure with time), perform the following code. 
+'''
+Ts = 1e-8
+Fs = 1 / Ts
+t_end = 1e-5
+t = linspace(0, t_end, t_end / Ts)
+f1 = 100e3
+a1 = 1
+f2 = 300e3
+a2 = .2
+f3 = 700e3
+a3 = .5
+
+X = a1*sin(2*pi*f1*t) + a2*sin(2*pi*f2*t) + a3*sin(2*pi*f3*t)
+plot(t, y)
+Y = fft(X)
+L = length(X)
+P2 = abs(Y/L)
+P1 = P2(1:L/2+1)
+P1(2:end-1) = 2*P1(2:end-1);
+f = Fs*(0:(L/2))/L;
+semilogx(f,P1, 'ro') 
+'''
+The above is a test with a mixture of different frequency sinusoidal signals. 
+
+
+
 
 
 ## Auto running and saving
