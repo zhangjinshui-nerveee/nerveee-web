@@ -6,11 +6,9 @@ date: 2022-02-06 19:38:24
 # Tasks
 
 ## Within 72 hours
-- [ ] Simulation script:  run multiple times simulation, run script of FFT after each simulation.
 - [ ] Manuscript of modulation: draw pictures yourself and then do the measurement
 - [ ] BME homework, allow user to select data txt
 ## Pool
-- TA-ECE431 change tutorial solution file name based on 3rd Edtion
 - Tax statement
 - PhD qualifying examination 
 
