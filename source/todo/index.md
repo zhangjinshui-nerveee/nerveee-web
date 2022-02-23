@@ -8,6 +8,7 @@ date: 2022-02-06 19:38:24
 ## Within 72 hours
 - [ ] Manuscript of modulation: draw pictures yourself and then do the measurement
 - [ ] BME homework, allow user to select data txt
+- [ ] Midterm of ECE431
 ## Pool
 - Tax statement
 - PhD qualifying examination 
