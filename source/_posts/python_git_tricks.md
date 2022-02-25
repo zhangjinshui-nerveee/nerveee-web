@@ -96,3 +96,12 @@ if type(a) == str:
 [What if I made some change on the wrong branch?](https://stackoverflow.com/questions/8085838/how-to-move-the-changes-from-one-branch-to-another-branch-git)
 > Main branch is for deployment in the industry. 
 > Git conflicts.
+
+
+
+# Jupyter Notebook
+- Auto-save
+'''
+%autosave 60
+Autosaving every 60 seconds. 
+'''

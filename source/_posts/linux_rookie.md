@@ -1,5 +1,5 @@
 ---
-title: Rookie with Ubuntu
+title: Rookie with Linux
 date: 2022-02-06 19:09:27
 tags:
 - linux
