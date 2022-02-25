@@ -105,3 +105,8 @@ if type(a) == str:
 %autosave 60
 Autosaving every 60 seconds. 
 '''
+- How to overwrite the printing content?
+'''
+print("Process {:2.1%} ......".format(i / len(ave_win_list)), end="\r")
+'''
+The key is the setting of """end="\r"""". Theoretically this won't change the thing that has already been printed. Instead, '\r' let print to start from the beginning. So it seems that the printed string has been overwriten. 
