@@ -35,6 +35,8 @@ Read and sketch enough before you write. That gives you a clear mind. When you a
 
 > A description for timeline. Getup without alarm. Read papers or news till 8:30. Eat breakfast and make a lunch. Arrive the LAB at 9:30. Build system or take a class if there is any. Eat lunch with friends at 1pm. Go back to work at 2 pm. Same work as morning. Go back to home and grab a dinner from 5pm to 6pm. Drive to library or play basketball. Go home at will. Boxing exercise and take a shower. Read and sleep. 
 
-
+# Engineering
+- Engineering is taking two steps forward, and then one step back. The back step always feels ugly. But that's what engineer does.
+- Look at your goal. Write a paper always, and see if your current work make it forward. 
 
 
