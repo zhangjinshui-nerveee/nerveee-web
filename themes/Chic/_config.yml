@@ -13,7 +13,7 @@ favicon: /favicon.ico
 nickname: Jinshui Zhang
 
 ### this variable is MarkDown form.
-description: Early one morning, with time to kill  <br> I borrowed Jeb's rifle and sat on the hill <br> I saw a lone rider crossing the plain <br> I drew a bead on him, to practice my aim 
+description: Nerve $\cdot$ EE
 avatar: /image/avatar.jpg
 
 # main menu navigation
@@ -47,7 +47,7 @@ links:
   # QQ:
   # Weibo:
   # WeChat: zhangjinshui1997
-  Github: https://github.com/jimmy-zhangjinshui
+  # Github: https://github.com/jimmy-zhangjinshui
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
