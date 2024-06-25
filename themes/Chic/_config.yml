@@ -3,7 +3,7 @@ navname: NerveEE
 
 # navigatior items
 nav:
-  Posts: /archives
+  Projects: /archives
   About: /about
 
 # favicon
