@@ -4,9 +4,6 @@ navname: NerveEE
 # navigatior items
 nav:
   Posts: /archives
-  Categories: /category
-  Tags: /tag
-  Todo: /todo
   About: /about
 
 # favicon
@@ -24,7 +21,7 @@ avatar: /image/avatar.jpeg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /archives
+  # Blog: /archives
   # Category:
   # Tags: 
   # Link:
