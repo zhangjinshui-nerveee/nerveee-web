@@ -4,8 +4,6 @@ title: Upcoming ......
 ---
 
 - How to write an image into electromagnetic field? 
-- Is it time for electric vehicles to say goodbye to silicon transistors? 
+- Farewell to silicon transistors in EV? Not yet
+- Are we, human beings, doomed with Capitalism? Inspirations from how neurons work alone and together
 - What is the ultimate form of neuron-like computational units? 
-- Easiest way to give timing flexibility to traditional TMS devices
-- Is MPS-TMS the ultimate solution to flexible TMS (transcranial magnetic stimulation)?
-- Are we human beings doomed with Capitalism? Talking from how neurons work together
