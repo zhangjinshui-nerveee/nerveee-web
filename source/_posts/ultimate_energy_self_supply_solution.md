@@ -1,3 +1,8 @@
+---
+title: Self-Supply Energy Solution
+# date: 2024-06-25 19:05:07
+---
+
 # Solar Panel + EV (+ Powerwall): A Tempting Vision of Future Energy
 Introduce the energy chain of EV, solar panel (roof), and powerwall to provide bidirectional energy flow. 
 
