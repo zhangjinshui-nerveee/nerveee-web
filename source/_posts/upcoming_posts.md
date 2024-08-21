@@ -7,3 +7,4 @@ title: Upcoming ......
 - Farewell to silicon transistors in EV? Not yet
 - Are we, human beings, doomed with Capitalism? Inspirations from how neurons work alone and together
 - What is the ultimate form of neuron-like computational units? 
+- Electric Vehicle + Solar Panel + Powerwall: A redemption of rich people, but not quite the ultimate solution for humankind
