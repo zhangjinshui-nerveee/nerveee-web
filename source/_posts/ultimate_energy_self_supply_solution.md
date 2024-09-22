@@ -19,3 +19,5 @@ That only account for about 3% of the total population.
 In urban areas, where public transportation would be well developed, every vehicle should be electric, charged by solar panels. Meanwhile, they also acts as the energy storage units. When they run their routes, they will be driven and charged during sunny time, and supplying the whole city during dark time. 
 
 However, the weather is still affecting the power too much. Good energy storage unit, i.e. safe and efficient, should be carried by cities. 
+
+The end. 
