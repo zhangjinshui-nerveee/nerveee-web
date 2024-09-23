@@ -4,15 +4,15 @@ title: Pixel Art on Magnetic Spectrum
 ---
 
 # Background
-This idea traces back to a cross-displin biomedical engineering project that I was working on from 2022 to 2024. The core of this project is magnetogenetics. In principle, **magnetogenetics** is to synthesize nanoparticles that can be selectively heated by magnetic field of different frequencies. 
-Say, nanoparticle A can only be heated by 50 kHz wave but cannot by any other. 
-While particle B can only be heated by 500 kHz but not any other. 
+
+This concept originates from a cross-disciplinary biomedical engineering project I worked on between 2022 and 2024, focusing on magnetogenetics. Magnetogenetics involves the synthesis of nanoparticles designed to be selectively heated by specific frequencies of a magnetic field. For instance, nanoparticle A responds solely to a 50 kHz wave for heating, while nanoparticle B reacts exclusively to a 500 kHz wave. 
 
 More explanation can be found in these papers:
+
 1. [Subsecond multichannel magnetic control of select neural circuits in freely moving flies](https://www.nature.com/articles/s41563-022-01281-7)
 2. [A wireless millimetric magnetoelectric implant for the endovascular stimulation of peripheral nerves](https://www.nature.com/articles/s41551-022-00873-7)
 
-My role here is to build a prototype that can generate these magnetic waves at the same time. The intensity shall be beyond 80 mT, which is quite a lot. 
+My task is to develop a prototype capable of simultaneously generating magnetic waves with an intensity exceeding 80 mT, a significant level.
 
 You professionals may think that okay, this job can be easily done with some simple resonant circuit. Unfortunately, the frequency is not fixed and we may need to change it from time to time, ranging from DC to 5 MHz. Resonant circuits cause us trouble since they can't change their frequency freely without changing the hardware.
 
