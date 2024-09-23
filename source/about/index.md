@@ -5,3 +5,4 @@ title: About me (Zhang, Jinshui)
 
 I am a PhD candidate at Duke University. I work on innovative projects that push the boundaries of power electronics to advance noninvasive brain stimulation techniques.
 
+[Downloading my CV through Google drive](https://drive.google.com/file/d/1wMqFCR8EGPQIeLMnjQBJq4TmN7LNxA4-/view)
