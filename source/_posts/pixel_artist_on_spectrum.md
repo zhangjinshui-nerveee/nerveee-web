@@ -1,6 +1,6 @@
 ---
 title: Pixel Art on Magnetic Spectrum
-# date: 2023-09-22 07:07:07
+date: 2023-09-22 07:07:07
 ---
 
 # Background
