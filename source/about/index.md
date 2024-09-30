@@ -5,4 +5,4 @@ title: About me (Zhang, Jinshui)
 
 I am a PhD candidate at Duke University, powering through boundaries of electronics to advance cutting-edge neuroscience research. 
 
-[Downloading my CV ](https://drive.google.com/uc?export=download&id=1UiVCriMfL81dW9UpQM8N5pdvcNc_b9xG)
+[Download my CV ](https://drive.google.com/uc?export=download&id=1UiVCriMfL81dW9UpQM8N5pdvcNc_b9xG)
