@@ -1,6 +1,6 @@
 ---
 title: Upcoming ......
-# date: 2024-06-25 19:05:07
+date: 2072-02-07 07:07:07
 ---
 
 - How to write an image into electromagnetic field? 
