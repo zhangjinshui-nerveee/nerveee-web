@@ -1,5 +1,5 @@
 # Header
-navname: NerveEE
+navname: Jinshui's Personal Website
 
 # navigatior items
 nav:
@@ -13,7 +13,7 @@ favicon: /favicon.ico
 nickname: Jinshui Zhang
 
 ### this variable is MarkDown form.
-description: Dedicated to nonprofit research. 
+description: I work on power electronics to drive advancements in neuroscience exploration. This website shares insights from my research (simplified for broader understanding) and the tools and experiences that have helped me grow personally. 
 avatar: /image/avatar.jpg
 
 # main menu navigation
@@ -21,18 +21,20 @@ avatar: /image/avatar.jpg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
+  Resume: https://drive.google.com/uc?export=download&id=1rxnA4CDKTWKDuwuEcFEyzQtyYco86Wq9
+  LinkedIn: https://www.linkedin.com/in/jinshui-zhang-6872b932a/
+  Github: https://github.com/jimmy-zhangjinshui
+  Publish: https://scholar.google.com/citations?user=c2XlhNUAAAAJ&hl=en
+  Gallery: https://scholars.duke.edu/person/jinshui.zhang
+  # WeChat: zhangjinshui1997
   # Blog: /archives
   # Category:
   # Tags: 
   # Link:
-  # Resume:
   # Publish:
   # Trophy:
-  # Gallery:
   # RSS:
   # AliPay:
-  # ZhiHu: https://www.zhihu.com/people/sirice
-  # LinkedIn:
   # FaceBook:
   # Twitter:
   # Skype:
@@ -46,8 +48,6 @@ links:
   # YouTube:
   # QQ:
   # Weibo:
-  # WeChat: zhangjinshui1997
-  # Github: https://github.com/jimmy-zhangjinshui
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
