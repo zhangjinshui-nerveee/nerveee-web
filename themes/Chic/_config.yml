@@ -13,7 +13,8 @@ favicon: /favicon.ico
 nickname: Jinshui Zhang
 
 ### this variable is MarkDown form.
-description: I work on power electronics to drive advancements in neuroscience exploration. This website shares insights from my research (simplified for broader understanding) and the tools and experiences that have helped me grow personally. 
+description: I work on power electronics to drive advancements in neuroscience exploration. <br>
+  This website shares insights from my research (simplified for broader understanding) and the tools and experiences that have helped me grow personally. 
 avatar: /image/avatar.jpg
 
 # main menu navigation
