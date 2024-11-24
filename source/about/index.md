@@ -11,13 +11,11 @@ I power through boundaries of electronics to advance cutting-edge neuroscience r
 I am currently developing a closed-loop brain stimulation platform that offers unparalleled flexibility in brain stimulation paradigms, including pulse shape, timing, and stimulation sequences. Collaborating with a team at Duke's Psychiatry Department, our goal is to identify more efficient stimulation patterns using this innovative platform.
 
 # What is the state of my career?
-I am seeking a summer internship for 2025, as well as long-term job opportunities. 
-
-I specialize in power electronics, particularly for large-scale systems, and am a dedicated embedded systems developer. 
-
+I am seeking a summer internship for 2025, as well as long-term job opportunities. <br>
+I specialize in power electronics, particularly for large-scale systems, and am a dedicated embedded systems developer. <br>
 I am a lifelong learner, continually growing from all experiences, especially failures.
 
 # What's my favorite tags?
 I am the first middle-schooler in my family. <br>
-I spend more than one hours or so on bus for commuting, everyday.<br>
+I take bus for commuting everyday.<br>
 I am a biker. 
