@@ -1,10 +1,13 @@
 ---
 title: Upcoming ......
-date: 2072-02-07 07:07:07
+date: 2077-07-07 07:07:07
 ---
 
-- How to write an image into electromagnetic field? 
-- Farewell to silicon transistors in EV? Not yet
-- Are we, human beings, doomed with Capitalism? Inspirations from how neurons work alone and together
-- What is the ultimate form of neuron-like computational units? 
-- Electric Vehicle + Solar Panel + Powerwall: A redemption of rich people, but not quite the ultimate solution for humankind
+- [ ] How to write an image into electromagnetic field? 
+- [ ] How to turn your smart phone into a dumb phone?
+- [ ] Why do we (I) still need dumb tools when everything now is so smart?
+- [ ] Collections on news / thoughts that can revive people's passion for bikes and buses
+- [ ] Bike electrification -- a way that I like
+- [ ] Bus electrification -- modular or not, this is a question
+- [ ] Noninvasive brain stimulation: where are we, and where are we going to?
+- [ ] Believe it or not, the destination of most tech jobs is just to keep people entertained. Yes, we are doomed.
