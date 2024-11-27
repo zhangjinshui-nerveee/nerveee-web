@@ -7,7 +7,7 @@ title: About
 I am a PhD candidate at Duke University, majoring in electrical and computer engineering. 
 I power through boundaries of electronics to advance cutting-edge neuroscience research. 
 
-# What am I doing?
+# What do I do?
 I am currently developing a closed-loop brain stimulation platform that offers unparalleled flexibility in brain stimulation paradigms, including pulse shape, timing, and stimulation sequences. Collaborating with a team at Duke's Psychiatry Department, our goal is to identify more efficient stimulation patterns using this innovative platform.
 
 # What is the state of my career?
@@ -17,5 +17,5 @@ I am a lifelong learner, continually growing from all experiences, especially fa
 
 # What's my favorite tags?
 I am the first middle-schooler in my family. 
-I take bus for commuting everyday.
+I take buses for commuting everyday.
 I am a biker. 
