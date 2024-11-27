@@ -12,3 +12,4 @@ However, the secret is to have a high fidelity.
 
 # This is cool. What else can we use it on?
 
+![Selfie on a spectrum](img/pixel_art_on_spectrum/selfie_on_spectrum.png)
