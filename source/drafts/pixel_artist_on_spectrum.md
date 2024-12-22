@@ -1,7 +1,9 @@
 ---
-title: Pixel Art on Magnetic Spectrum
+title: 
 date: 2023-09-22 07:07:07
 ---
+
+# Information: 1D, 2D and 3D
 
 # How to become a pixel artist on electromagnetic field
 Time and frequency can form a canvas. 
