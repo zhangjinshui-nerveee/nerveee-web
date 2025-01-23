@@ -22,11 +22,11 @@ avatar: /image/avatar.jpg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Resume: https://drive.google.com/uc?export=download&id=1rxnA4CDKTWKDuwuEcFEyzQtyYco86Wq9
-  LinkedIn: https://www.linkedin.com/in/jinshui-zhang-6872b932a/
-  Github: https://github.com/zhangjinshui-nerveee
-  Publish: https://scholar.google.com/citations?user=c2XlhNUAAAAJ&hl=en
-  Gallery: https://scholars.duke.edu/person/jinshui.zhang
+  # Resume: https://drive.google.com/uc?export=download&id=1rxnA4CDKTWKDuwuEcFEyzQtyYco86Wq9
+  # LinkedIn: https://www.linkedin.com/in/jinshui-zhang-6872b932a/
+  # Github: https://github.com/zhangjinshui-nerveee
+  # Publish: https://scholar.google.com/citations?user=c2XlhNUAAAAJ&hl=en
+  # Gallery: https://scholars.duke.edu/person/jinshui.zhang
   # WeChat: zhangjinshui1997
   # Blog: /archives
   # Category:
