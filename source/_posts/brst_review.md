@@ -1,6 +1,6 @@
 ---
 title: Noninvasive or invasive? It is a question (for brain stimulation)
-date: 2025-01-23 07:07:07
+date: 2024-08-23 07:07:07
 ---
 
 The brain, our most complex and enigmatic organ, has always fascinated scientists and clinicians alike. As we dive deeper into understanding its functions, the idea of stimulating the brain to treat disorders or enhance abilities has gained significant traction. But when it comes to brain stimulation, a pivotal question emerges: Should we opt for noninvasive or invasive techniques?
