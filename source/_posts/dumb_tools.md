@@ -3,7 +3,7 @@ title: Why Do We Still Need Dumb Tools today?
 date: 2024-05-22 00:00:00
 ---
 
-In a world increasingly dominated by intelligent systems, sleek graphical interfaces, and multitasking environments, the idea of "dumb" tools might seem outdated. However, these seemingly archaic tools45like command-line terminals, basic text editors, and minimalistic devices45remain essential in 2024. Why? Because dumb tools are far less distracting, allowing us to focus on the task at hand.
+In a world increasingly dominated by intelligent systems, sleek graphical interfaces, and multitasking environments, the idea of "dumb" tools might seem outdated. However, these seemingly archaic tools--like command-line terminals, basic text editors, and minimalistic devices--remain essential in 2024. Why? Because dumb tools are far less distracting, allowing us to focus on the task at hand.
 
 1. Minimal Distractions
 
@@ -25,6 +25,6 @@ Dumb tools tend to be more stable and predictable because they lack the complexi
 
 Switching between tasks or multitasking is a productivity killer. Dumb tools encourage a single-task mindset. For example, a terminal forces you to complete one command before moving on to the next. This linear workflow aligns with how our brains function best: focusing on one thing at a time.
 
-> Dumb Tools Aren't Anti-Progress: Advocating for dumb tools doesn't mean rejecting innovation. Instead, it39s about striking a balance. While smart tools have their place, dumb tools excel in fostering focus, efficiency, and mastery. They serve as a reminder that sometimes, less is more.
+> Dumb Tools Aren't Anti-Progress: Advocating for dumb tools doesn't mean rejecting innovation. Instead, it's about striking a balance. While smart tools have their place, dumb tools excel in fostering focus, efficiency, and mastery. They serve as a reminder that sometimes, less is more.
 
-In 2024, the allure of sophisticated, feature-rich tools is undeniable. But as we navigate an increasingly distracting digital landscape, dumb tools remain valuable allies. By reducing distractions, encouraging mastery, and promoting efficiency, they help us work smarter45ironically, by staying simple.
+In 2024, the allure of sophisticated, feature-rich tools is undeniable. But as we navigate an increasingly distracting digital landscape, dumb tools remain valuable allies. By reducing distractions, encouraging mastery, and promoting efficiency, they help us work smarter -- ironically, by staying simple.
