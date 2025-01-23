@@ -18,7 +18,7 @@ Noninvasive brain stimulation (NIBS) techniques, such as transcranial magnetic s
 - Precision: Noninvasive methods often struggle to target deep brain structures with high specificity.
 - Intensity: The effects of NIBS are generally weaker and may require multiple sessions to achieve meaningful outcomes.
 
-## The Invasive Option
+# The Invasive Option
 Invasive brain stimulation techniques, such as deep brain stimulation (DBS) and electrocorticography (ECoG)-guided stimulation, involve surgical implantation of electrodes into the brain. These methods have shown tremendous promise in treating conditions like Parkinson39s disease, epilepsy, and severe depression.
 
 ## Advantages of Invasive Techniques:
