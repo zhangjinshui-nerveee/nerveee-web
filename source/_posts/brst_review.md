@@ -10,7 +10,7 @@ The brain, our most complex and enigmatic organ, has always fascinated scientist
 Noninvasive brain stimulation (NIBS) techniques, such as transcranial magnetic stimulation (TMS) and transcranial direct current stimulation (tDCS), have revolutionized neuroscience. These methods influence brain activity without the need for surgical intervention, making them attractive options for research and therapy.
 
 ## Advantages of Noninvasive Techniques:
-- Safety: Since these methods don39t require incisions or implants, the risks associated with infection, bleeding, or anesthesia are virtually eliminated.
+- Safety: Since these methods don't require incisions or implants, the risks associated with infection, bleeding, or anesthesia are virtually eliminated.
 - Accessibility: Noninvasive tools are often more cost-effective and can be used in outpatient settings, expanding their reach to more patients.
 - Flexibility: NIBS can be applied repeatedly without long recovery times, allowing for continuous or adaptive treatment strategies.
 
@@ -19,12 +19,12 @@ Noninvasive brain stimulation (NIBS) techniques, such as transcranial magnetic s
 - Intensity: The effects of NIBS are generally weaker and may require multiple sessions to achieve meaningful outcomes.
 
 # The Invasive Option
-Invasive brain stimulation techniques, such as deep brain stimulation (DBS) and electrocorticography (ECoG)-guided stimulation, involve surgical implantation of electrodes into the brain. These methods have shown tremendous promise in treating conditions like Parkinson39s disease, epilepsy, and severe depression.
+Invasive brain stimulation techniques, such as deep brain stimulation (DBS) and electrocorticography (ECoG)-guided stimulation, involve surgical implantation of electrodes into the brain. These methods have shown tremendous promise in treating conditions like Parkinson's disease, epilepsy, and severe depression.
 
 ## Advantages of Invasive Techniques:
 Precision: The ability to directly target specific brain regions provides unparalleled accuracy and control.
 Efficacy: Invasive methods often yield robust and sustained effects, particularly for disorders resistant to conventional treatments.
-Customizability: Devices can be fine-tuned in real-time to adapt to the patient39s needs and responses.
+Customizability: Devices can be fine-tuned in real-time to adapt to the patient's needs and responses.
 
 ## Limitations
 - Risk: Surgery carries inherent risks, including infection, hemorrhage, and potential neurological damage.
@@ -33,7 +33,7 @@ Customizability: Devices can be fine-tuned in real-time to adapt to the patient3
 
 # The Ethical Dimension
 
-The choice between noninvasive and invasive methods isn39t purely scientific; it39s also ethical. Invasive techniques, while powerful, raise questions about consent, long-term effects, and the potential for misuse. Meanwhile, noninvasive methods, though safer, may struggle to meet the needs of patients with severe conditions. Balancing these considerations requires thoughtful deliberation and a patient-centered approach.
+The choice between noninvasive and invasive methods isn't purely scientific; it's also ethical. Invasive techniques, while powerful, raise questions about consent, long-term effects, and the potential for misuse. Meanwhile, noninvasive methods, though safer, may struggle to meet the needs of patients with severe conditions. Balancing these considerations requires thoughtful deliberation and a patient-centered approach.
 
 # The Future: Bridging the Divide?
 
