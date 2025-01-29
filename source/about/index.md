@@ -15,7 +15,6 @@ I am seeking a summer internship for 2025, as well as long-term job opportunitie
 I specialize in power electronics, particularly for large-scale systems, and am a dedicated embedded systems developer. 
 I am a lifelong learner, continually growing from all experiences, especially failures.
 
-# What's my favorite tags?
-I am the first middle-schooler in my family. 
-I take buses for commuting everyday.
-I am a biker. 
+---
+Best way to find me:
+jinshui.zhang@duke.edu
